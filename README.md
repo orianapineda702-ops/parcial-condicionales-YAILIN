@@ -1,1 +1,1 @@
-# parcial-condicionales-YAILIN
+# parcial-condicionales-PINEDA
