@@ -1,3 +1,4 @@
+[REATMI.md](https://github.com/user-attachments/files/28036693/REATMI.md)
 # parcial-condicionales-YAILIN
 
 ## Información del estudiante
